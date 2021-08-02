@@ -22,22 +22,22 @@ It is significant that this study tried to analyze the mean effect size of envir
 
 First, the total effect size of the studies was big (d=2.488). 
 
-![](./EL/images/1.png)
+![](./images/1.png)
 
 
 ### 2. Mean Effect Size According to Sub-factors of Environmetal Literacy
 Second, among the sub-factors of environmental literacy, the effect sizes of environmental function, knowledge, attitude, and behavior were higher in order, but the mean difference among groups was not statistically significant. 
 
-![](./EL/images/2.png)
+![](./images/2.png)
 
 ### 3. Mean Effect Size According to Interventions
 Third, there was a statistical difference in the effect size according to students’ grade (grade3 > grade6 > grade5 > grade1 > grade2) and number of lessons (more than average (13 times) > less than average). 
 
-![](./EL/images/3.png)
+![](./images/3.png)
 
 ### 4. Publication bias
 funnel plot(trim-and-fill)
-![](./EL/images/4.png)
+![](./images/4.png)
 
 ## [Reference]  
 황성동. (2014). 알기쉬운 메타분석의 이해. 서울: 학지사.  
